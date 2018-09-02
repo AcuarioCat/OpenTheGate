@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Gate</string>
+    <string name="gate_opening">Puerta abriendo...</string>
+    <string name="account_disabled">Cuenta deshabilitada</string>
+    <string name="invalid_account">Cuenta invalida. Comprueba configuracion.</string>
+    <string name="test">Prueba</string>
+    <string name="test_ok">Prueba exitosa</string>
+    <string name="test_fail">Prueba fallada</string>
+    <string name="open_message">Mensaje abrir recibida</string>
+    <string name="settings">Configuracion</string>
+    <string name="account_settings">Configuracion cuenta</string>
+    <string name="server_settings">Configuracion servidor</string>
+    <string name="exit">Salir</string>
+</resources>

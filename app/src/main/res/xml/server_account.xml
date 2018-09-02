@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="Server account settings">
+
+        <EditTextPreference
+            android:id="@+id/mqServer"
+            android:key="mqServerUri"
+            android:title="Server address"
+            android:summary="Server address"/>
+        <EditTextPreference
+            android:key="mqUsername"
+            android:title="Server username"
+            android:summary="Server account username"/>
+        <EditTextPreference
+            android:key="mqPassword"
+            android:title="Server password"
+            android:summary="Server account password"/>
+        <EditTextPreference
+            android:key="mqPublishTopic"
+            android:title="Server topic"
+            android:summary="Server topic"/>
+        <EditTextPreference
+            android:key="mqPort"
+            android:title="Server port"
+            android:summary="Server port"/>
+    </PreferenceCategory>
+
+</PreferenceScreen>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Gate</string>
+    <string name="gate_opening">Gate opening...</string>
+    <string name="account_disabled">Account disabled</string>
+    <string name="invalid_account">Invalid account. Check settings.</string>
+    <string name="test">Test</string>
+    <string name="test_ok">Test successful</string>
+    <string name="test_fail">Test failed</string>
+    <string name="open_message">Open message received</string>
+    <string name="settings">Settings</string>
+    <string name="account_settings">Account settings</string>
+    <string name="server_settings">Server settings</string>
+    <string name="exit">Exit</string>
+</resources>
